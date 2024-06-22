@@ -21,3 +21,22 @@
 .white-text {
     color:white !important
 }
+
+.fa-dot-circle {
+    color: black
+}
+
+.skiptranslate iframe {
+    display: none !important;
+}
+
+#goog-gt-tt, .goog-te-balloon-frame{
+    display: none !important;
+} 
+.goog-text-highlight { 
+    background: none !important; box-shadow: none !important;
+}
+
+#google_element {
+    display: none;
+}
