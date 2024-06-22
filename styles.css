@@ -1,0 +1,23 @@
+.elementor-589 .elementor-element.elementor-element-1207fd3f:not(.elementor-motion-effects-element-type-background), .elementor-589 .elementor-element.elementor-element-1207fd3f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background: -webkit-gradient(linear, left top, right top, from(#17D396), to(#07F7F7)) !important
+}
+
+.elementor-589 .elementor-element.elementor-element-2b3ea46a:not(.elementor-motion-effects-element-type-background), .elementor-589 .elementor-element.elementor-element-2b3ea46a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background: -webkit-gradient(linear, left top, right top, from(#17D396), to(#07F7F7)) !important
+}
+
+.elementor-element-f455326 .elementor-heading-title, 
+.elementor-element-6226d536 .elementor-heading-title, 
+.elementor-element-1776b14b .elementor-heading-title, 
+.elementor-element-f455326 .elementor-element, 
+.elementor-element-f455326 .elementor-icon-box-title, 
+.elementor-element-f455326 .elementor-widget-container,
+.elementor-element-f455326 .elementor-title,
+.elementor-element-f455326 .elementor-icon-box-description {
+    color:black !important
+}
+
+
+.white-text {
+    color:white !important
+}
