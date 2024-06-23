@@ -18,10 +18,6 @@
 }
 
 
-.white-text {
-    color:white !important
-}
-
 .fa-dot-circle {
     color: black
 }
@@ -39,4 +35,15 @@
 
 #google_element {
     display: none;
+}
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+} 
+body {
+    top: 0px !important; 
+}
+
+.elementor-social-icon-twitter {
+    background-color: #000000;
 }
